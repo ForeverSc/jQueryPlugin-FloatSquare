@@ -8,4 +8,4 @@ demo:[http://foreversc.github.io/demo-FloatSquare](http://foreversc.github.io/de
 --
 
 ### display effect:  
-![image](https://github.com/ForeverSc/jQueryPlugin-FloatSquare/pic/demo.gif)
+![image](https://github.com/ForeverSc/jQueryPlugin-FloatSquare/blob/master/pic/demo.gif)
